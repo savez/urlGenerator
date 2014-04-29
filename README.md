@@ -1,4 +1,5 @@
-urlGenerator
-============
+URL GENERATOR
+-----------------
+versione 0.1
 
-url generator
+Permette di generare url univoci e un time life per essi.
